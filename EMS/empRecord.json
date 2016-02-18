@@ -1,0 +1,20 @@
+[
+	{"name":"Dilip kumar","address":"Pune","mobile":"123456","salary":"500000"},
+	{"name":"Sunil kumar","address":"Mumbai","mobile":"56465","salary":"9000"},
+	{"name":"Mohit sharma","address":"Delhi","mobile":"87985","salary":"10000"},
+	{"name":"Saurav seth","address":"Nagpur","mobile":"23564","salary":"5500"},
+	{"name":"Mamta kulkarni","address":"Patna","mobile":"8795","salary":"6500"},
+	{"name":"Suresh giri","address":"Ranchi","mobile":"56987","salary":"7500"},
+	{"name":"Amitabh bachan","address":"Jamshedpur","mobile":"2346546","salary":"2500"},
+	{"name":"Salman khan","address":"Kolkata","mobile":"5348798","salary":"2540"},
+	{"name":"Shurbhi ","address":"Chennai","mobile":"548754","salary":"69800"},
+	{"name":"Sammi","address":"Banaras","mobile":"23464","salary":"15000"},
+	{"name":"Anil","address":"Nasik","mobile":"5667465","salary":"250000"},
+	{"name":"Mukesh ambani","address":"Dhanbad","mobile":"548798","salary":"1500"},
+	{"name":"Anil ambani","address":"Jaipur","mobile":"56487","salary":"2540"},
+	{"name":"Manish sharma","address":"Giridih","mobile":"46546887","salary":"300"},
+	{"name":"Manish sharma","address":"Pune","mobile":"46546887","salary":"300"},
+	{"name":"mamta sharma","address":"pune","mobile":"46546887","salary":"300"},
+	{"name":"Manish sharma","address":"Giridih","mobile":"46546887","salary":"300"},
+	{"name":"Manish sharma","address":"Deoghar","mobile":"46546887","salary":"300"}
+]
